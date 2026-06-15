@@ -106,7 +106,7 @@ function playTrack(folder, index) {
   const filename = tracks[index];
   // Encode each path segment separately so spaces → %20 but slashes stay
   const src =
-    "audio/" + encodeURIComponent(folder) + "/" + encodeURIComponent(filename);
+    "Audio/" + encodeURIComponent(folder) + "/" + encodeURIComponent(filename);
 
   currentFolder = folder;
   currentTrackIndex = index;
