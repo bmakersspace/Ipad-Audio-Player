@@ -20,6 +20,8 @@ fetch("library.json")
   .then((data) => {
     library = data;
     renderFolders();
+    const firstFolder = Object.keys(library)[0];
+    if (firstFolder) selectFolder(firstFolder);
   })
   .catch(() => {
     document.getElementById("tracks").innerHTML =
