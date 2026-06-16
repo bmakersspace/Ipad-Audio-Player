@@ -1,5 +1,13 @@
 {
-  "Ambient": ["Rain.mp3", "Forest.mp3", "Thunder.mp3"],
-  "Magic": ["Portal.mp3", "Crystal.mp3"],
-  "Music": ["Malcolm Todd - Roommates.m4a"]
+  "Upbeat": [
+    "Malcolm Todd - Roommates.m4a",
+    "livia Dean - So Easy (To Fall In Love) (Lyrics).m4a",
+    "Sammy Rae - Good Life (Official Audio).mp3",
+    "Corinne Bailey Rae - Put Your Records On.mp3",
+    "Frank Ocean - Pink + White.mp3",
+    "Cherry Wine.mp3",
+    "Banana Pancakes.mp3",
+    "Claire Rosinkranz - Backyard Boy (Official Music Video).mp3",
+    "Laufey - From The Start (Official Music Video).mp3"
+  ]
 }
