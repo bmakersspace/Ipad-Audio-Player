@@ -28,9 +28,7 @@ fetch("library.json")
 
 /* ── Folder rendering ─────────────────────────────────────── */
 const FOLDER_ICONS = {
-  Ambient: "🌿",
-  Magic: "✦",
-  Music: "♪",
+  Songs: "♪",
 };
 
 function renderFolders() {
